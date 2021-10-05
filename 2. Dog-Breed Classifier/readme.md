@@ -1,4 +1,4 @@
-:dog: Image classification project to **identify the breed of Dog**. If dog is detected it will **predict breed of the dog*. 
+:dog: Image classification project to **identify the breed of Dog**. If dog is detected it will **predict breed of the dog**. 
 
 :boy: If human is detected it will return *resembling dog breed*. :woman:
 
